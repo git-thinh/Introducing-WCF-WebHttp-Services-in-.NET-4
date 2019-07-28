@@ -1,5 +1,10 @@
 # Introducing-WCF-WebHttp-Services-in-.NET-4
 
+https://blogs.msdn.microsoft.com/endpoint/2010/01/06/introducing-wcf-webhttp-services-in-net-4/
+
+https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/create-a-service-arbitrary-data-using-wcf
+
+
 Over the next six weeks we are going to be releasing a series of blog posts that will focus on the new features in .NET 4 around WCF WebHttp Services. 
 
 
