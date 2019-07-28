@@ -4,6 +4,9 @@ https://blogs.msdn.microsoft.com/endpoint/2010/01/06/introducing-wcf-webhttp-ser
 
 https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/create-a-service-arbitrary-data-using-wcf
 
+https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/how-to-create-a-wcf-service-that-communicates-over-websockets
+
+
 
 Over the next six weeks we are going to be releasing a series of blog posts that will focus on the new features in .NET 4 around WCF WebHttp Services. 
 
